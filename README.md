@@ -1,1 +1,1 @@
-# Repo-1
+A To-Do List is a simple application that allows users to create, manage, and organize tasks. Users can addnew tasks, mark them as complete, edit details, and delete tasks, often with options to categorize oprioritize them, helping to enhance productivity and time management.
